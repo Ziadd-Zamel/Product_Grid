@@ -12,7 +12,7 @@ A beautiful and responsive products gallery built with Next.js, TypeScript, Tail
 
 ## Live Demo
 
-[View Live Demo](https://products-gallery-next.netlify.app)
+[View Live Demo](https://productss-gallery.netlify.app)
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ A beautiful and responsive products gallery built with Next.js, TypeScript, Tail
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/products-gallery.git
+git clone https://github.com/Ziadd-Zamel/Products-Gallery.git
 cd products-gallery
 ```
 
